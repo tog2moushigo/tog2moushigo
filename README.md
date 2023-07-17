@@ -6,12 +6,16 @@
 
 # My repositories
 ## tog2moushigo/dai6
-Program which encode/decode strings.
-I made for homework at Cyber Security class.
+A program that encodes/decodes strings.
+I made it for homework in Cyber Security class.
 
-## CpawCTF
+## ctf
+Program or text for resolving CTF questions.
+
+### CpawCTF(this is integrated ctf)
 Program or text for resolving CpawCTF questions.
-Recently, I finished level 1 questions!!
+Recently, I finished!!
+
 
 <!---
 tog2moushigo/tog2moushigo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
